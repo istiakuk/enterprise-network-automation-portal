@@ -1,0 +1,24 @@
+{
+    "devices": [
+        {
+            "hostname": "HQ-R1",
+            "ip": "192.168.100.11",
+            "device_type": "cisco_ios"
+        },
+        {
+            "hostname": "HQ-R2",
+            "ip": "192.168.100.1",
+            "device_type": "cisco_ios"
+        },
+        {
+            "hostname": "HQ-R3",
+            "ip": "192.168.100.12",
+            "device_type": "cisco_ios"
+        },
+        {
+            "hostname": "HQ-SW1",
+            "ip": "192.168.100.2",
+            "device_type": "cisco_ios"
+        }
+    ]
+}
